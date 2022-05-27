@@ -1,5 +1,5 @@
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Github All Releases](https://img.shields.io/github/downloads/ankitkumar174/Car-Damage-Detective-Web-App/total.svg)]()
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
  
 # Invoice Generating System
 Invoice Generating System with VBA and Excel Macro. This system help to genearte an computerized invoice in PDF form.  
