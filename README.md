@@ -1,3 +1,3 @@
-# Invoice-Generating-Project
+# Invoice-Generating-System
 🐱‍🏍 This Project is made by using VBA
 
